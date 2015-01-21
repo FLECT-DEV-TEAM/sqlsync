@@ -67,6 +67,7 @@ How to use
 License
 -------
 MIT
+
 商用利用を正式サポートする有償版があります。詳細はお問い合わせください。
 
 We have an commercial use version of this application officially supported.
